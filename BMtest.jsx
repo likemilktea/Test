@@ -2,7 +2,7 @@ import React from 'react'
 
 function BMtest() {
   return (
-    <div>BMtest</div>
+    <div>BMtest?</div>
   )
 }
 
